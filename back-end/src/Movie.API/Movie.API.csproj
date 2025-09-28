@@ -10,4 +10,8 @@
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.9"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Movie.Application\Movie.Application.csproj" />
+      <ProjectReference Include="..\Movie.Infrastructure\Movie.Infrastructure.csproj" />
+    </ItemGroup>
 </Project>
