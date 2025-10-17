@@ -15,7 +15,6 @@ public abstract class MappingProfile : Profile
     private void ApplyMappingsFromAssembly()
     {
         var assembly = typeof(MappingProfile).Assembly;
-
         var types = assembly.GetTypes()
             .Where(t => t.GetInterfaces()
                 .Any(i => i.IsGenericType && i.GetGenericTypeDefinition() == typeof(IMapFrom<>)))

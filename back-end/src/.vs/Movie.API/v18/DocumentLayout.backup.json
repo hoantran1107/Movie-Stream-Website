@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\SelfStudy\\Movie-Stream-Website\\back-end\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4281CE9-0CC1-402A-BAF7-F6366CA5E9EE}|Movie.Application\\Movie.Application.csproj|d:\\github\\selfstudy\\movie-stream-website\\back-end\\src\\movie.application\\phase1-summary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F4281CE9-0CC1-402A-BAF7-F6366CA5E9EE}|Movie.Application\\Movie.Application.csproj|solutionrelative:movie.application\\phase1-summary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phase1-Summary.md",
+              "DocumentMoniker": "D:\\GitHub\\SelfStudy\\Movie-Stream-Website\\back-end\\src\\Movie.Application\\Phase1-Summary.md",
+              "RelativeDocumentMoniker": "Movie.Application\\Phase1-Summary.md",
+              "ToolTip": "D:\\GitHub\\SelfStudy\\Movie-Stream-Website\\back-end\\src\\Movie.Application\\Phase1-Summary.md",
+              "RelativeToolTip": "Movie.Application\\Phase1-Summary.md",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-30T10:40:28.68Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
